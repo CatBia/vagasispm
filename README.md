@@ -16,17 +16,18 @@ A ISPM, empresa de soluções de gerência de serviços de telecomunicações, r
 Conhecimentos de redes e ITIL são muito úteis para o entendimento do nosso mercado. ExtJS 4 é um grande diferencial. Saber um pouco de Linux 
 seria interessante, apesar de não ser obrigatório.
  
-Trabalhamos com scrum em uma equipe autogerenciável e de alto desempenho. Oferecemos: 
-    - Ótimo ambiente de trabalho e de troca de conhecimento;
-    - Café expresso;
-    - Xbox com Kinect pra jogar a hora que der na telha;
-    - Horário flexível;
-    - VR;
-    - Estacionamento;
-    - Academia (Smart Fit);
-    - Inglês (EnglishTown);
-    - Contratação CLT com salário a combinar de acordo com o seu nível de conhecimento e experiência;
-    - Possibilidade de trabalhar de bermuda e descalço se estiver muito calor.
+Trabalhamos com scrum em uma equipe autogerenciável e de alto desempenho. Oferecemos:
+
+    * Ótimo ambiente de trabalho e de troca de conhecimento;
+    * Café expresso;
+    * Xbox com Kinect pra jogar a hora que der na telha;
+    * Horário flexível;
+    * VR;
+    * Estacionamento;
+    * Academia (Smart Fit);
+    * Inglês (EnglishTown);
+    * Contratação CLT com salário a combinar de acordo com o seu nível de conhecimento e experiência;
+    * Possibilidade de trabalhar de bermuda e descalço se estiver muito calor.
  
 O local de trabalho é na Barra da Tijuca/RJ. Se você se interessou pelo desafio, envie currículo 
 para leandro.mattoso@ispm.com.br 
