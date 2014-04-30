@@ -1,7 +1,7 @@
 Vagas ISPM
 =========
 
-A ISPM, empresa de soluções de gerência de serviços de telecomunicações, redes e TI, busca para o setor de desenvolvimento:
+A ISPM (www.ispm.com), empresa de soluções de gerência de serviços de telecomunicações, redes e TI, busca para o setor de desenvolvimento:
  
 - Agile Developer
     - com sólidos conhecimentos web;
@@ -23,6 +23,7 @@ Trabalhamos com scrum em uma equipe autogerenciável e de alto desempenho. Ofere
     * Xbox com Kinect pra jogar a hora que der na telha;
     * Horário flexível;
     * VR;
+    * Plano de Saúde Integral (Bradesco Perfil);
     * Estacionamento;
     * Academia (Smart Fit);
     * Inglês (EnglishTown);
