@@ -23,12 +23,9 @@ Trabalhamos com scrum em uma equipe autogerenciável e de alto desempenho. Ofere
     * Xbox com Kinect pra jogar a hora que der na telha;
     * Horário flexível;
     * VR;
-    * Plano de Saúde Integral (Bradesco Perfil);
-    * Estacionamento;
-    * Academia (Smart Fit);
-    * Inglês (EnglishTown);
+    * Plano de Saúde Integral;
     * Contratação CLT com salário a combinar de acordo com o seu nível de conhecimento e experiência;
-    * Possibilidade de trabalhar de bermuda e descalço se estiver muito calor.
+    * Possibilidade de trabalhar de bermuda, saia e descalço se estiver muito calor.
  
 O local de trabalho é na Barra da Tijuca/RJ. Se você se interessou pelo desafio, envie currículo 
 para leandro.mattoso@ispm.com.br 
