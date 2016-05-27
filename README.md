@@ -28,6 +28,6 @@ Trabalhamos com scrum em uma equipe autogerenciável e de alto desempenho. Ofere
     * Possibilidade de trabalhar de bermuda, saia e descalço se estiver muito calor.
  
 O local de trabalho é na Barra da Tijuca/RJ. Se você se interessou pelo desafio, envie currículo 
-para leandro.mattoso@ispm.com.br 
+para marcel.portela@ispm.com 
  
 Se quiser impressionar, mande junto o seu login no Github, twitter, blog e afins.
